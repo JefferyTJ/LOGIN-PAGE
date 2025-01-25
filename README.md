@@ -1,4 +1,4 @@
-login page is a critical component of any application or website that requires user authentication. Its importance lies in the following aspects:
+Login page is a critical component of any application or website that requires user authentication. Its importance lies in the following aspects:
 
 1. Security: 
 Protects user data by restricting access to authorized users only.
